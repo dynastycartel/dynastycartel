@@ -8,7 +8,6 @@
 <br>
 
 - A computer science student
-- Currently learning Web Development
 - Always open to new experiences
 - Will definitely become a godly coder 
 
