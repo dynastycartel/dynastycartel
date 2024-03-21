@@ -8,8 +8,9 @@
 <br>
 
 - A computer science student
+- Currently studying data science & machine learning
 - Always open to new experiences
-- Will definitely become a godly coder 
+- Will definitely become a godly coder
 
 <br><br>
 
